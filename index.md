@@ -1,6 +1,6 @@
 # Aaron Leang's Portfolio
 
-I am a computer science student at CSUF and I plan to become a video game programmer after I expect to graduate in 2028.
+I am a computer science student at CSUF and I plan to become a video game programmer after I expect to graduate in 2027.
 
 ## My Favorite CPSC 120L Labs
 * Lab 3 Part 1
